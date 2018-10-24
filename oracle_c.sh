@@ -1,0 +1,1 @@
+./gradlew run --args "src/test/resources/oracle.properties clean"

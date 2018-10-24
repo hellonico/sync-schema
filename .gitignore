@@ -1,0 +1,10 @@
+.classpath
+.gradle/
+.project
+.settings/
+.vscode/
+bin/
+sample.db
+build
+nogit/
+trades.db
